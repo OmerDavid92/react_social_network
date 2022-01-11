@@ -1,0 +1,19 @@
+{
+  "name": "react_social_network",
+  "version": "1.0.0",
+  "description": "razi+omer=<3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmerDavid92/react_social_network.git"
+  },
+  "author": "Razi & Omer :)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerDavid92/react_social_network/issues"
+  },
+  "homepage": "https://github.com/OmerDavid92/react_social_network#readme"
+}
